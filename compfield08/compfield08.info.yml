@@ -1,0 +1,5 @@
+name: compfield08
+type: module
+description: "Testing compound field"
+package: "Compound field"
+core_version_requirement: ^9
