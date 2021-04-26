@@ -5,7 +5,13 @@ This module have no formatter, because it is for internal website, and article p
 
 
 files - /compfield08/compfield.info.yml (this is about the info of Module)
+
+
         /compfield08/src/Plugin/Field/FieldType/CompField.php (this file has field type code)
+        
+        
         /compfield08/src/Plugin/Field/FieldWidget/CompDefaultWidget.php (this file has the field widget code)
+        
+        
   
   These are the onlt three files, required to see or test the problems of this module. 
